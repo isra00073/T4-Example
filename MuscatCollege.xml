@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE MuscatCollege [
+<!ELEMENT   >
+<!ELEMENT  writer "Writer: Donald Duck.">
+<!ELEMENT  copyright "Copyright: W3Schools.">
+]>
+
+<note>
+<to>Tove</to>
+<from>Jani</from>
+<heading>Reminder</heading>
+<body>Don't forget me this weekend!</body>
+<footer>&writer;&nbsp;&copyright;</footer>
+</note>
